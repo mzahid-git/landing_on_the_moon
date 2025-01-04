@@ -1,0 +1,10 @@
+ipykernel
+gymnasium
+numpy
+torch
+swig
+gymnasium[box2d]
+imageio
+glob2
+imageio[ffmpeg]
+imageio[pyav]
