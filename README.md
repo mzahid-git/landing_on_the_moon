@@ -1,5 +1,7 @@
 # Lunar Lander Environment - OpenAI Gymnasium
 
+https://github.com/user-attachments/assets/6873e847-c9a1-4e5b-99cc-ac2d7dddc1b2
+
 The Lunar Lander environment is a classic reinforcement learning task provided by OpenAI's Gymnasium library. The goal is to land a lunar module on a designated landing pad using a simulated environment that models physics and dynamics.
 
 ## Overview
